@@ -1,0 +1,2 @@
+C:\Users\pglen\OneDrive\Desktop\oop\workshop7\Debug\workshop7.exe
+C:\Users\pglen\OneDrive\Desktop\oop\workshop7\Debug\workshop7.pdb
