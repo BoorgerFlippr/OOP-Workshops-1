@@ -1,0 +1,6 @@
+//Glenn Parrreno
+//geparreno@myseneca.ca
+//115814196
+//23-01-22
+
+	In this workshop I have learned how to organize a big program into separate modules. C++ is not that different form C but different none the less. I struggled at first with their simple differences like namespaces. It took me a while to understand the conept of it but eventually I did. The way I understood it is that namespaces separates the program into different regions, and that separation prevent name mix-ups when working on bigger programs. Another thing I struggled with in this workshop is understanding the provided code. I became overwhelmed with DIY because I had no idea how to tackle this. What I did is I tried my best to understand the functions in cStrTools.cpp and soon after I found the answer to my porblems with this DIY.
