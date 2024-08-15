@@ -1,6 +1,0 @@
-Glenn Parrreno
-geparreno@myseneca.ca
-115814196
-17-03-22
-
-	This workshop introduced a new topic for me which is inheritance. Class and function inheritance seems complicated at first but with practice and this workshop, it helped me understand this topic better. The idea of inheriting classes and functions is quite interesting, it really hammers in the idea of an object oriented programming. Working on the milestones is interestinf too. It is my first time dealing with dates in  a c program so woking on it is fun. Trying to manipulate dates and working with them is kind of difficult though.
