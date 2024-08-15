@@ -1,0 +1,6 @@
+Glenn Parrreno
+geparreno@myseneca.ca
+115814196
+02-03-22
+
+	By completing this workshop I have learned how to create and implement copy constructors and assignment constructors. I have also learned how to work with istream and ostream object. Attempting to learn them has been difiicult however working on this workshop has furthered my knowledge of this topic. This workshop has also introduced me on how to work with strings. They were tricky at first and the notes barely touched on them so I had to rely on the internet to find out how to work around strings.
