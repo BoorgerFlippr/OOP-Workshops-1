@@ -1,0 +1,7 @@
+Glenn Parrreno
+geparreno@myseneca.ca
+115814196
+13-02-22
+
+	In this workshop I have learned how to use constructors and destructors as well as using the this keyword when I code. Using constructors is similar to a setter, the difference is that constructors uses the same identifier as the class name. Constructors sets up the variables at the beggining of the program to either an empty state or to a particular data. Constructors make sure data are initialize so when the program calls a getter before a setter it wont run into an error. Destructors meanwhile to the opposite. They set data back to a safe empty state or deallocate dynamic memory. The this keyword I found interesting. It took me a while to figure out why I need to use it but it is essential to complete the lab part. 
+
