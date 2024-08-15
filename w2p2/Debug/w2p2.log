@@ -1,0 +1,12 @@
+﻿  DNA.cpp
+C:\Users\pglen\OneDrive\Desktop\oop\w2p2\DNA.h(11,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\pglen\OneDrive\Desktop\oop\w2p2\DNA.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\pglen\OneDrive\Desktop\oop\w2p2\DNA.cpp(47,26): error C2440: '=': cannot convert from 'char *' to 'char'
+C:\Users\pglen\OneDrive\Desktop\oop\w2p2\DNA.cpp(47,15): message : There is no context in which this conversion is possible
+C:\Users\pglen\OneDrive\Desktop\oop\w2p2\DNA.cpp(48,42): error C2664: 'int sdds::strLen(const char *)': cannot convert argument 1 from 'char' to 'const char *'
+C:\Users\pglen\OneDrive\Desktop\oop\w2p2\DNA.cpp(48,41): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\pglen\OneDrive\Desktop\oop\w2p2\cStrTools.h(20,6): message : see declaration of 'sdds::strLen'
+C:\Users\pglen\OneDrive\Desktop\oop\w2p2\DNA.cpp(48,44): error C3078: array size must be specified in new expressions without an initializer
+C:\Users\pglen\OneDrive\Desktop\oop\w2p2\DNA.cpp(49,32): error C2664: 'void sdds::strCpy(char *,const char *)': cannot convert argument 2 from 'char' to 'const char *'
+C:\Users\pglen\OneDrive\Desktop\oop\w2p2\DNA.cpp(49,31): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\pglen\OneDrive\Desktop\oop\w2p2\cStrTools.h(19,7): message : see declaration of 'sdds::strCpy'
