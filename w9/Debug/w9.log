@@ -1,0 +1,6 @@
+﻿  HtmlText.cpp
+  main.cpp
+  Text.cpp
+C:\Users\pglen\OneDrive\Desktop\OOP244_PROJ\w9\Text.cpp(85,27): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating Code...
+  w9.vcxproj -> C:\Users\pglen\OneDrive\Desktop\OOP244_PROJ\w9\Debug\w9.exe

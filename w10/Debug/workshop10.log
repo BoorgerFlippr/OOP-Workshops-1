@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\pglen\OneDrive\Desktop\oop\workshop10\temps.h(55,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pglen\OneDrive\Desktop\oop\workshop10\main.cpp(41): message : see reference to function template instantiation 'void sdds::printCollection<sdds::Car>(const sdds::Collection<sdds::Car> &,const char *)' being compiled
+  workshop10.vcxproj -> C:\Users\pglen\OneDrive\Desktop\oop\workshop10\Debug\workshop10.exe

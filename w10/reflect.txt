@@ -1,0 +1,14 @@
+Glenn Parrreno
+geparreno@myseneca.ca
+115814196
+11-04-22
+
+Template type requirements
+
+select function:
+T in this function can be substituted with other classes such as car and employee. T is needed since in order to create a collection objectyou need a size and another object(represented by T)
+
+printCollection function:
+Class is used to specify what class of objects will Collection use to print data from.
+
+	I found this workshop to be somewhat easy and difficult at the same time. On one hand it took me a while to figure out that using templates does need an implementation file. I also did not find it to be that difficult to use templates. In this workshop I learned how to implement and use function templates. In the process of learning that I have learned how to differentiate between the 'typename' and 'class' keyword. Typename is mostly used for substituting in a type such as int or char. It could also be used to identify a compound type.  While class is reserved for referencing a class itself. I had difficulties in this workshop as well. Like the one I mentioned earlier I did not know that a .cpp file is necessary for implementing templates.

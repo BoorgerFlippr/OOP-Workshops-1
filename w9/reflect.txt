@@ -1,0 +1,7 @@
+Glenn Parrreno
+geparreno@myseneca.ca
+115814196
+02-04-22
+
+
+	In this workshop I learned how to create and implement a derived class with a resoucre. I had trouble making this workshop because I was getting confused on how do I implement various constructors using this concept. After careful study of the course notes I eventually figured out how. I noticed that I missed including calls to copy constructors of the base class. Thus, I end up with attributes being set to null. I found milestone 3 to be fairly easy. I did end up having trouble with memory management but I eventually found the problem and was able to submit the milestone.
