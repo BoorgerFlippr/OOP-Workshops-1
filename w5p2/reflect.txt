@@ -1,6 +1,0 @@
-Glenn Parrreno
-geparreno@myseneca.ca
-115814196
-19-02-22
-
-	In this workshop I have learned how to create and overload operators. Overloading binary and unary operators ar simple enough. It is no different from adding 1 plus 1 in the program, the only difference is that you program how the 1 plus 1 is acheived. What confuses me the most about this topic are the type conversion operators. I had trouble wrapping my mind to it and only started to grasp it well when I did the workshop. In the workshop its definition is vague like just return something of a particular type. I figuerd that it is just casting a class to a different type for it to return something else.  
