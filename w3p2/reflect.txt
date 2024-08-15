@@ -1,6 +1,0 @@
-Glenn Parrreno
-geparreno@myseneca.ca
-115814196
-06-02-22
-
-	So far this topic (member functions) has been fairly straightforward. I just assoicate it with getters and setters that I learned back in highschool. Esentially what member functions are for is a way to access an objects private variables outside the object it self. I have also learned how to differentiate a class and a struct  in this workshop. I made note that the variables are private by default in a class and they are public by default in a class. If i had to say what difficulties I encountered in this workshop is the calculation in the transfer function. I also had difficulties in implementing member function but it is a good lesson to remember to put className:: before implementing it.
