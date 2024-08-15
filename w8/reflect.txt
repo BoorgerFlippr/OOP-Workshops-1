@@ -1,6 +1,0 @@
-Glenn Parrreno
-geparreno@myseneca.ca
-115814196
-22-03-22
-
-		In this workshop I have learned what virtual and pure functions are. They enable me to overide functions from the base class even though they are being called by another class. These topics makes the modular programming aspect of c++ really prevalent. The interface, abstract class and concrete class are really useful. I can use an interaace to define what a class is and should it do without really commiting to its implementation. Meanwhile I can let the abstract and concrete classes to define the interface for me. I found milestone 2 to be quite easy compared to the first one. Using the utils module really did prove to be useful. The only thing I had difficulties with in that milestone is that I relied to much on the hand out and soon figured to come up with my own functions. I had a few errors here and there but soon realized I had to fix it with a function of my own design.
